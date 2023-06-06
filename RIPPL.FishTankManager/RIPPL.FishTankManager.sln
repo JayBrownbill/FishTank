@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RIPPL.FishTankManager", "RIPPL.FishTankManager.csproj", "{8C7C040B-2DFD-43C3-949E-567E650FA4A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RIPPL.FishTankManager.Tests", "..\RIPPL.FishTankManger.Tests\RIPPL.FishTankManager.Tests.csproj", "{F97E5F3B-E7F3-4E0B-BEBF-C42C4E81F87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7C040B-2DFD-43C3-949E-567E650FA4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7C040B-2DFD-43C3-949E-567E650FA4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7C040B-2DFD-43C3-949E-567E650FA4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7C040B-2DFD-43C3-949E-567E650FA4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97E5F3B-E7F3-4E0B-BEBF-C42C4E81F87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97E5F3B-E7F3-4E0B-BEBF-C42C4E81F87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97E5F3B-E7F3-4E0B-BEBF-C42C4E81F87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97E5F3B-E7F3-4E0B-BEBF-C42C4E81F87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9699A075-3130-4EC1-A795-422DB9DE2B21}
+	EndGlobalSection
+EndGlobal
